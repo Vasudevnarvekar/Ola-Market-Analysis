@@ -51,7 +51,7 @@ Key business questions answered using SQL:
 3. Customer and driver cancellation counts
 4. Top 5 customers by number of rides
 5. Revenue from completed rides
-6. Ratings analysis by vehicle type
+6. Ratings analysis through vehicle type
 7. Payment method usage (UPI, Cash, etc.)
 8. Incomplete rides with reasons
 
